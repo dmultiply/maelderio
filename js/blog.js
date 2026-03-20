@@ -1,5 +1,5 @@
 const posts = [
-  { title: "First Post", file: "posts/first-post.md" }
+  { title: "First Post", file: "posts/post_1.md" }
 ];
 
 const list = document.getElementById("posts");
